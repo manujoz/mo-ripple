@@ -1,0 +1,19 @@
+{
+    "name": "mo-ripple",
+    "version": "1.0.0",
+    "description": "Ripple efffect",
+    "author": {
+        "name": "Manu Overa",
+        "email": "manu.overa@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/manujoz/mo-ripple"
+    },
+    "dependencies": {
+        "lit": "^2.6.1"
+    },
+    "main": "mo-ripple.js",
+    "types": "mo-ripple.d.ts",
+    "license": "ISC"
+}
